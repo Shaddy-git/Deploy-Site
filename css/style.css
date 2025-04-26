@@ -1,0 +1,191 @@
+/* Общие стили */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #373232;
+    
+    
+}
+
+main {
+    /* background-image: url('polytech_logo_bg.png'); */
+    padding: 20px;
+}
+
+header {
+    background: #f4f4f4;
+    padding: 1rem;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #f4f4f4;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+h1 {
+    margin: 0;
+}
+.header-logo {
+   display: flex;
+}
+.header-text {
+    display: inline;
+}
+/* Index */
+.index-img {
+    float: right;
+}
+.index-section {
+    display: flex;
+}
+.main-text-1 {
+    text-decoration: none;
+    display: inline-block;
+    background-color: #4CAF50; 
+    color: white; 
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+    margin: 8px;
+    height: min-content;
+    width: 50%;
+    
+}
+.index-section h3 {
+    display: flex;
+    justify-content: center;
+}
+/* About */
+.about-gif  {
+    display: flex;
+    justify-content: center;
+}
+.section-about {
+    display: flex;
+}
+.about-text {
+    text-decoration: none;
+    display: inline-block;
+    background-color: #4CAF50; 
+    color: white; 
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+    margin: 8px;
+    height: min-content;
+    width: 50%;
+    flex: 1;
+}
+.section-about h3 {
+    display: flex;
+    justify-content: center;
+}
+/* Team */
+.team {
+    display: flex;
+    justify-content: center;
+    height: min-content;
+    
+}
+.team h2 {
+    display: flex;
+    justify-content: center;
+}
+.team-text {
+    display: inline-block;
+    background-color: #4CAF50; 
+    color: white; 
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+    margin: 8px;
+} 
+
+.team-list {
+    display: flex;
+}
+.team-list div {
+    font-size: large;
+    margin: 10px;
+    flex: 1;
+    justify-content: center;
+}
+/* Journal */
+.journal-h3 {
+    display: flex;
+    justify-content: center;
+}
+.section-journal {
+    display: flex;
+}
+.journal-text {
+    text-decoration: none;
+    display: inline-block;
+    background-color: #4CAF50; 
+    color: white; 
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+    margin: 8px;
+    height: min-content;
+    width: 50%;
+    flex: 1;
+}
+/* Resources */
+.src {
+    display: flex;
+    justify-content: center;
+}
+.src-1 {
+    display: flex;
+    justify-content: center;
+}
+.src-1 a {
+    text-decoration: none;
+    display: inline-block;
+    background-color: #4CAF50; 
+    color: white; 
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+    margin: 8px;
+}
+
+
+
+/* section {
+    text-decoration: none;
+    display: inline-block;
+    background-color: #4CAF50; 
+    color: white; 
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+    margin: 8px;
+    height: min-content;
+} */
